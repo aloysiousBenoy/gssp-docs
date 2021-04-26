@@ -3,7 +3,8 @@
 ## Introduction
 This repo contains documentation, resources and  specifications with respect to the LoRa sub-system of the Student satellite program of GEC Barton Hill, Trivandrum.
 
-- [Learning resources](resources/resources.md)
+Get started with LoRa.
+[Learning resources](resources/intro.md)
   
 ## Contribution guidline
 Please submit a PR if you would like to contribute to the project. 
