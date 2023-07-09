@@ -3,7 +3,7 @@ import math as m
 import numpy as np
 c=3*(10**8)
 txantgain=2
-d=np.linspace(500,2425,2425)*(10**3)
+d=np.linspace(20,100,100)*(10**3)
 print(d)
 a=20*np.log10(d)
 b=20*m.log10(868*(10**6))

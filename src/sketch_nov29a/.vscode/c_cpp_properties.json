@@ -17,8 +17,7 @@
             "intelliSenseMode": "gcc-x64",
             "includePath": [
                 "/home/raider0ne/.arduino15/packages/arduino/hardware/avr/1.8.3/cores/arduino",
-                "/home/raider0ne/.arduino15/packages/arduino/hardware/avr/1.8.3/variants/standard",
-                "/home/raider0ne/.arduino15/packages/arduino/hardware/avr/1.8.3/libraries/SoftwareSerial/src",
+                "/home/raider0ne/.arduino15/packages/arduino/hardware/avr/1.8.3/variants/mega",
                 "/home/raider0ne/.arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/lib/gcc/avr/7.3.0/include",
                 "/home/raider0ne/.arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/lib/gcc/avr/7.3.0/include-fixed",
                 "/home/raider0ne/.arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino5/avr/include"
@@ -30,8 +29,8 @@
             "cppStandard": "c++11",
             "defines": [
                 "F_CPU=16000000L",
-                "ARDUINO=10816",
-                "ARDUINO_AVR_UNO",
+                "ARDUINO=10819",
+                "ARDUINO_AVR_MEGA2560",
                 "ARDUINO_ARCH_AVR",
                 "__DBL_MIN_EXP__=(-125)",
                 "__HQ_FBIT__=15",

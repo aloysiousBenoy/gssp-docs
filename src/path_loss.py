@@ -9,7 +9,7 @@ tx_ant_gain = 2
 rx_ant_gain = 2
 
 # orbit height of the satellite, LEO
-height = 500 * (10**3)
+height = 35 * (10**3)
 
 # Distance at horizon from ground
 los_distance = 3.57*math.sqrt(height) * (10**3)
@@ -20,7 +20,7 @@ f = 868 * (10**6)
 
 c = 3 * (10**8)
 
-a = 20 * math.log10(los_distance)
+a = 20 * math.log10(height)
 b = 20*math.log10(f)
 d = 20*math.log10(4*math.pi/c)
 
