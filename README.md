@@ -9,7 +9,7 @@ Get started with LoRa.
 
 ## Balloon launch test results
 
-Screen recording available here : (youtube)[https://youtu.be/4W4Ye6ssbbk]
+Screen recording available here : [youtube](https://youtu.be/4W4Ye6ssbbk)
 
 ## Contribution guidline
 Please submit a PR if you would like to contribute to the project. 
